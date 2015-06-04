@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\app\build\intermediates\pre-dexed\debug\classes-c04738f73ccc0731a37214e00274332d901b0fbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\pre-dexed\debug\classes-feece613167a1480c33d47835c92d4c566358885.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-1b92a9fc0f936753771035b3f6057cb55e183409.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\exploded-aar\com.facebook.android\facebook\3.20.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5d6fd19edf9ca755f1d76b5d0b0175e0d696b1fc">
+        <dex dex="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\pre-dexed\debug\classes-a3cf0a41cc809b288843a4d8cae750edd8b8ff0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-1c906e875ae72173824beb1b84d494e30d56a492.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.2\91c20388c9a45f62b5ed8fe0502bb76ff6251fc7\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-0da7731b7f5c757d6593b1a9da96e6e0548dedf7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\app\build\intermediates\exploded-aar\com.facebook.android\facebook\3.20.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ed9b3154130a845d569007184d24cda67c0b8167">
+        <dex dex="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\app\build\intermediates\pre-dexed\debug\classes-a56b2d890d4d758edecfe36dfc0a5cfd62e00a96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-9615414a78fe3c773377adeca735f12ab51e5bce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\libraries\signalrclientsdk\build\libs\signalrclientsdk.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a7900552001f339ba9cf9b15e4c762fec27e1bc">
+        <dex dex="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\pre-dexed\debug\signalrclientsdk-cc64ca1fb8b47b42e73c17306809b549616746c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\libraries\signalrclientsdk\build\libs\signalrclientsdk.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9014ddff88cb285191842dd8c8f9bc42f4bb3d34">
+        <dex dex="C:\Users\Oswaldo\Source\Workspaces\elcubo9-users-android\app\build\intermediates\pre-dexed\debug\signalrclientsdk-6d69eb08fad2b649b338f073aa78fa81d0843b43.jar" />
+    </item>
+    <item
+        jar="C:\Users\Oswaldo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Oswaldo\AndroidStudioProjects\elcubo9\app\build\intermediates\pre-dexed\debug\gson-2.3.1-72f0080c9718d04b66b016ddf7c28fb930831d31.jar" />
+    </item>
+
+</items>
